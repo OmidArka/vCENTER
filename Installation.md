@@ -53,4 +53,3 @@ For Python:
 
 python get_vms.py
 
-If everything is working fine, you're ready to automate your vCenter environment! 🎯
